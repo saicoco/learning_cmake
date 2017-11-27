@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/saicoco/code/cmake_learn/math/math_func.cpp
+stdio.h
+-
+stdlib.h
+-
+math_func.h
+/home/saicoco/code/cmake_learn/math/math_func.h
+
+/home/saicoco/code/cmake_learn/math/math_func.h
+

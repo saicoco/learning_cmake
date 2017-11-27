@@ -1,0 +1,9 @@
+/home/saicoco/code/learning_cmake/CMakeFiles/install/strip.dir
+/home/saicoco/code/learning_cmake/CMakeFiles/install/local.dir
+/home/saicoco/code/learning_cmake/CMakeFiles/install.dir
+/home/saicoco/code/learning_cmake/CMakeFiles/package.dir
+/home/saicoco/code/learning_cmake/CMakeFiles/package_source.dir
+/home/saicoco/code/learning_cmake/CMakeFiles/Demo5.dir
+/home/saicoco/code/learning_cmake/CMakeFiles/edit_cache.dir
+/home/saicoco/code/learning_cmake/CMakeFiles/rebuild_cache.dir
+/home/saicoco/code/learning_cmake/CMakeFiles/list_install_components.dir
